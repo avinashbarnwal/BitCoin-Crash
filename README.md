@@ -1,6 +1,6 @@
 # BitCoin-Crash
 
-##Analysis of Bit-Coin Crash from Jan-2012 and May-2018
+Analysis of Bit-Coin Crash from Jan-2012 and May-2018
 
 This repository is about analyzing Bitcoin crash from Jan-2012 and May-2018. We have downloaded the data from quandl using this python script
 https://blog.patricktriest.com/analyzing-cryptocurrencies-python/. 
